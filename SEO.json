@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "flour-mill-management-system",
+  "description": "Flour Mill Management System — Food Processing Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Flour mill system for wheat lots, blending, packing SKUs, and distributor orders. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "food-processing",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/flour-mill-management-system"
+}
